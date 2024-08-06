@@ -24,8 +24,4 @@ Alternatively, you can copy and paste the HTML code into a new  HTML file  and o
 
 ## Credits
 
-This HTML page was created by  `<Your Name>`.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This HTML page was created by  `Gowtham Raj`.
