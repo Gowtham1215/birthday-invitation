@@ -15,7 +15,7 @@ To view the page, simply clone the repository and open the  `index.html`  file i
 
 bash
 ```
-git clone https://github.com/<username>/<repository>.git
+git clone https://github.com/Gowtham1215/<repository>.git
 cd <repository>
 
 ```
